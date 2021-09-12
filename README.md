@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Am a Cyber security researcher
+
 <!--
 **diwusec/diwusec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
