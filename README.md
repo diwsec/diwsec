@@ -1,14 +1,10 @@
-# Konichiwa 👋
+# Konichiwa , I'm diwusec 👋
 
 <h1 align="center">
-  <br>
-  <a href="https://github.com/diwusec/diwusec"><img src="https://cdn.wallpapersafari.com/17/61/0ecUaq.jpg" alt="diwusec"></a>
-  <br>
+<br>
+<a href="https://github.com/diwusec/diwusec"><img src="https://cdn.wallpapersafari.com/17/61/0ecUaq.jpg" alt="diwusec"></a>
+<br>
 </h1>
-
-### Hi there , I'm diwusec 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/diwusec)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
