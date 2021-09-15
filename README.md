@@ -20,9 +20,7 @@
 	
 ### Tools:
 
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 ![kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
@@ -30,7 +28,6 @@
 ![visualstudiocode](https://img.shields.io/badge/-visualstudiocode-blue?style=flat-square&logo=visualstudiocode)
 ![vmware](https://img.shields.io/badge/-vmware-darkblue?style=flat-square&logo=vmware)
 ![vim](https://img.shields.io/badge/-vim-black?style=flat-square&logo=vim)
-![wireshark](https://img.shields.io/badge/-wireshark-black?style=flat-square&logo=wireshark)
 
 <p width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
