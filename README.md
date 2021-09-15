@@ -43,6 +43,4 @@
 </p>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 	
-<h1 align="center">check out my docker repo</h1>
-	
-<p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p> 
+<h1 <p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p></h1>
