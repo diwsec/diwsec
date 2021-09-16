@@ -1,4 +1,4 @@
-# Konichiwa, I'm diwusec 👋
+# Konichiwa 👋
 
 <h1 align="center">
 <br>
