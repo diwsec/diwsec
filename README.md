@@ -14,9 +14,7 @@
 </p>
 	
 <h3 <p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p></h3>
-	
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=diwusec&label=Views&color=blue&style=plastic" alt="diwusec" /> </p>
-	
+		
 <p width="100%" align="center">
           <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
           <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=tokyonight" />
