@@ -15,9 +15,9 @@
 	
 <h1 <p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p></h1>
 
-<img align="left" height="300px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBlooded-RahulMaurya&theme=dracula">
+<img align="left" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBlooded-RahulMaurya&theme=dracula">
 
-<img align="left" height="300px" width="450px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula">
+<img align="left" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula">
 </p>
 <!-- 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwusec&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
