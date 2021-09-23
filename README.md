@@ -15,11 +15,12 @@
 	
 <h1 <p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p></h1>
 
-<img align="left" height="300px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=dracula">
+<img align="left" height="380px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=dracula">
 
-<img align="left" height="300px" width="300px" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=dracula">
+<img align="left" height="380px" width="300px" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=dracula">
 </p>
-<!-- 
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwusec&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
- 
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+
+<h1 align="center">
+	arigato</h1>
