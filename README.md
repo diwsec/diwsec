@@ -14,14 +14,12 @@
 </p>
 	
 <h1 <p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p></h1>
-		
-<p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwusec&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=synthwave">
+
+<img align="left" height="300px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBlooded-RahulMaurya&theme=dracula">
+
+<img align="left" height="300px" width="450px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=diwusec&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=synthwave)
-
-# arigato 🙏
+<!-- 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=diwusec&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+ 
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
