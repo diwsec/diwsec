@@ -16,9 +16,9 @@
 <h1 <p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p></h1>
 
 <p width="100%" align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=dark" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=dark" />
+<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=diwusec&theme=tokyonight" />
+	
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=tokyonight" />
 </p>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&theme=react-dark" />
 
