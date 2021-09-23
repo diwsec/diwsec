@@ -16,17 +16,17 @@
 <h1 <p align="center"> <a href="https://github.com/diwusec/pentdocks"> Check out my docker repo </a> </p></h1>
 
 <p width="100%" align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=dracula" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=dark" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=dracula" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=dark" />
 </p>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&theme=react-dark" />
 
 <!-- <p width="100%" align="center">
-          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diwusec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diwusec&theme=tokyonight" />
+          <img width="48%" src="" />
+          <img width="48%" src="" />
 </p>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=diwusec&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
+<img width="100%" src="" /> -->
 
 <h1 align="center">
 	arigato 🙏</h1>
