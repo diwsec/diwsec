@@ -28,6 +28,7 @@
 </p>
 <img width="100%" src="" /> -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-thapliyal.Nitesh-thapliyal)
 
 <h1 align="center">
 	arigato 🙏</h1>
