@@ -1,4 +1,6 @@
-# Konichiwa 👋
+# Konichiwa 👋, i'm diwusec
+
+<h2>i'm a Cyber Security Researcher</h2>
 
 <h1 align="center">
 <br>
