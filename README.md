@@ -1,7 +1,5 @@
 # Konichiwa 👋, i'm diwusec
 
-<h2>i'm a Cyber Security Researcher</h2>
-
 <h1 align="center">
 <br>
 <a href="https://github.com/diwusec/diwusec"><img src="https://cdn.wallpapersafari.com/17/61/0ecUaq.jpg" alt="diwusec"></a>
